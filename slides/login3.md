@@ -11,3 +11,11 @@ new firebaseui.auth.AuthUI(auth).start("htmlTag", {
       signInSuccessUrl: "/",
     });;
 ```
+
+```html
+<link
+    type="text/css"
+    rel="stylesheet"
+    href="https://www.gstatic.com/firebasejs/ui/4.6.1/firebase-ui-auth.css"
+/>
+```
