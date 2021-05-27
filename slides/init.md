@@ -1,17 +1,13 @@
-## Intitisalisation firebase
+## Sujet: migration js to ts
 
-Install
-``` bash
-npm i -S firebase
+Nodejs a migrer
+
+```bash
+server/gateway/services/api/linkbox.ts
 ```
 
-Import
-```typescript
-import * as firebase from "firebase/app";
-```
+Composant react à migrer
 
-Initialisation 
-```typescript
-firebase.initializeApp(firebaseConfig);
+```bash
+src/components/molecules/Breadcrumb/Breadcrumb.js
 ```
-

@@ -1,10 +1,11 @@
-## Codons !
+## Some code
 
-Firebase console
+Repository lux
 
-<a href="https://console.firebase.google.com" target="_blank">https://console.firebase.google.com</a>
+<a href="https://github.com/axel-springer-kugawana/li_web-lux-refonte" target="_blank">https://github.com/axel-springer-kugawana/li_web-lux-refonte</a>
 
-Git repo
+Branche
 
-<a href="https://github.com/NiotoMOto/champs" target="_blank">https://github.com/NiotoMOto/champs</a>
-
+```bash
+git checkout dojo/typescript
+```

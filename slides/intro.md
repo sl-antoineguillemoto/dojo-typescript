@@ -1,7 +1,5 @@
-# Firebase
+# TypeScript
 
-- Authentification
-- Database ( nosql )
-- Hosting
-- Lambda function
-- ...
+- Superset of Javascript
+- Javascript is valid Typescript
+- Type inference
